@@ -1,0 +1,33 @@
+Resumo dos Textos
+
+Texto I – Sobre o Movimento Circular dos Fluidos
+
+O texto apresenta hipóteses e teoremas sobre o movimento de fluidos ao redor de cilindros e esferas. Assume-se que a resistência causada pela falta de lubrificação entre as partes do fluido é proporcional à velocidade relativa entre essas partes.
+
+Quando um cilindro sólido gira uniformemente em um fluido infinito, as partículas do fluido giram em torno do eixo, e o tempo que cada partícula leva para completar uma volta é proporcional à sua distância ao eixo do cilindro.
+
+Se o fluido estiver contido entre dois cilindros concêntricos, ambos girando, o tempo de rotação das partículas depende das distâncias ao eixo.
+
+Se o cilindro externo estiver parado e o interno girar, o movimento circular é gradualmente transmitido ao fluido até que todas as partes girem conforme determinado.
+
+O mesmo raciocínio é aplicado ao caso de uma esfera girando em um fluido, mas, nesse caso, o tempo de rotação das partículas é proporcional ao quadrado da distância ao centro da esfera.
+
+Esses resultados mostram como o movimento é propagado no fluido devido ao atrito interno e como depende da geometria do sistema (cilindro ou esfera).
+
+Texto II – Sermão da Montanha e Oração
+
+O texto reúne ensinamentos de Jesus, conhecidos como o Sermão da Montanha, e um trecho sobre o amor cristão.
+
+Jesus proclama as bem-aventuranças: felizes os pobres de espírito, os que choram, os mansos, os que têm fome e sede de justiça, os misericordiosos, os puros de coração, os pacificadores e os perseguidos por causa da justiça, pois receberão recompensas espirituais.
+
+Ele ensina a importância de ser exemplo para os outros, comparando os discípulos à luz do mundo e ao sal da terra.
+
+Jesus afirma que não veio abolir a Lei, mas cumpri-la, e que a justiça dos seus seguidores deve superar a dos fariseus.
+
+Ele aprofunda os mandamentos, condenando não só o assassinato, mas também a raiva e a ofensa; não só o adultério, mas também o desejo; e orienta sobre o divórcio, o juramento e a vingança.
+
+Enfatiza o amor aos inimigos, a prática da caridade e da oração de modo discreto, ensinando o "Pai Nosso".
+
+Recomenda não acumular riquezas na terra, mas no céu, e confiar na providência divina, sem se preocupar excessivamente com o futuro.
+
+Por fim, destaca a supremacia da caridade: mesmo que alguém tenha dons ou faça grandes sacrifícios, sem amor nada vale. O amor é paciente, bondoso, não inveja, não se vangloria, suporta tudo e nunca acaba. Entre fé, esperança e caridade, a maior é a caridade.

@@ -1,0 +1,16 @@
+A planilha contém uma tabela com:
+
+17 linhas (modelos de sensores diferentes, numerados de 1 a 17 na coluna Seq),
+
+8 colunas principais (V1 a V8), cada uma representando um equipamento com as leituras dos 17 sensores.
+
+
+Conforme o enunciado, um dos equipamentos (colunas V1 a V8) é defeituoso. O objetivo é identificar qual equipamento está com defeito, analisando os valores coletados.
+
+Vou agora verificar estatisticamente (por exemplo, via desvio padrão ou soma dos desvios em relação à média de cada linha) qual equipamento mais se distancia do padrão esperado.
+
+A análise dos desvios em relação à média por sensor mostra que o equipamento V2 possui o maior desvio total:
+
+V2: 1397.50 (muito acima dos demais)
+
+Isso indica que o equipamento V2 é provavelmente defeituoso, pois suas leituras se desviam significativamente das tendências observadas nos demais equipamentos.

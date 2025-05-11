@@ -1,0 +1,41 @@
+
+Resumo e Tradução dos Arquivos Enviados
+
+-------------------------------------------
+Base Text I.txt (Resumo e Tradução)
+-------------------------------------------
+
+Tema: Movimento Circular de Fluidos
+
+Resumo:
+O texto discute o movimento de fluidos ao redor de objetos como cilindros e esferas. A hipótese base é que a resistência entre partes do fluido é proporcional à velocidade relativa entre elas. 
+Principais pontos:
+- O tempo de rotação das partículas de fluido depende da distância ao eixo (em cilindros) ou ao centro (em esferas).
+- Em cilindros: tempo proporcional à distância ao eixo.
+- Em esferas: tempo proporcional ao quadrado da distância ao centro.
+- O movimento do fluido diminui se o objeto parar de girar.
+- Em sistemas de múltiplos corpos (como planetas), o movimento é transmitido de um para outro.
+- Newton critica a teoria dos vórtices como explicação dos movimentos planetários, mostrando que ela é incompatível com as observações astronômicas.
+
+Tradução Resumida:
+Estuda-se o movimento de fluidos em torno de objetos giratórios e conclui-se que os vórtices não podem explicar de forma satisfatória o comportamento dos planetas. O movimento observado dos corpos celestes requer outra explicação, como será desenvolvido em outras partes da obra.
+
+-------------------------------------------
+Base Text II.txt (Resumo e Tradução)
+-------------------------------------------
+
+Tema: Ensinamentos Religiosos (Evangelho de Mateus e 1 Coríntios)
+
+Resumo:
+O texto reúne ensinamentos de Jesus (Sermão da Montanha) e da carta de São Paulo sobre o amor:
+- As Bem-aventuranças: bênçãos para os humildes, os que sofrem, os misericordiosos, os puros de coração, etc.
+- Vocação dos discípulos: serem "sal da terra" e "luz do mundo".
+- Jesus cumpre a Lei e ensina padrões morais mais profundos (contra a ira, o adultério mental, o juramento).
+- Ensinamentos sobre caridade, oração (incluindo o "Pai Nosso") e jejum discreto.
+- Exortação à confiança em Deus e ao desapego dos bens materiais.
+- No trecho da 1ª Carta aos Coríntios, São Paulo ensina que o amor é a maior de todas as virtudes.
+
+Tradução Resumida:
+O Sermão da Montanha e o hino à caridade ensinam a buscar a humildade, o amor, a misericórdia e a fé. O verdadeiro espírito cristão consiste em amar o próximo, perdoar, confiar em Deus e praticar o bem de forma sincera e discreta.
+
+-------------------------------------------

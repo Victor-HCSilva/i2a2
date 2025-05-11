@@ -1,0 +1,18 @@
+Resumo do Texto I (Base Text I.txt)
+Este é um texto científico em latim sobre o movimento circular de fluidos, escrito provavelmente por Isaac Newton em sua obra "Principia Mathematica". O autor apresenta hipóteses, proposições e corolários sobre o comportamento de fluidos em movimento circular, especialmente em vórtices.
+Principais pontos:
+
+Estuda o movimento de fluidos ao redor de cilindros e esferas em rotação
+Demonstra que os períodos de revolução das partículas de fluido são proporcionais às suas distâncias do eixo (no caso de cilindros) ou ao quadrado das distâncias do centro (no caso de esferas)
+Analisa a resistência dos fluidos e a propagação do movimento em vórtices
+Discute como corpos sólidos se comportam quando imersos em vórtices
+Conclui que os planetas não poderiam ser transportados por vórtices de fluido, contradizendo outras teorias da época
+
+Resumo do Texto II (Base Text II.txt)
+Este texto contém duas passagens bíblicas em latim:
+
+O Sermão da Montanha (Evangelho de Mateus, capítulos 5-7)
+O Hino ao Amor (Primeira Carta aos Coríntios, capítulo 13)
+
+O Sermão da Montanha inclui as Bem-aventuranças, ensinamentos sobre a lei, oração (incluindo o Pai Nosso), jejum, riquezas, ansiedade e julgamento. O Hino ao Amor descreve a importância da caridade (amor) acima de todos os outros dons espirituais.
+Estes textos apresentam os principais ensinamentos morais e éticos do cristianismo, enfatizando temas como misericórdia, amor ao próximo, perdão, desapego material e confiança em Deus.
